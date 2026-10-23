@@ -25,8 +25,8 @@ La plateforme permet :
 
 ## Équipe
 
-EL YASSINI Khadija (Chef de projet / Développement)
-RAKOTOVAO Safidy (UX/UI Design / Communication)
+- EL YASSINI Khadija (Chef de projet / Développement)
+- RAKOTOVAO Safidy (UX/UI Design / Communication)
 
 ## Outils utilisées
 - Front-end et back-end
@@ -39,7 +39,8 @@ RAKOTOVAO Safidy (UX/UI Design / Communication)
 - MySQL
 - Git
 - GitHub
-Outils de conception/Design
+
+### Outils de conception/Design
 - Figma
 - Canva
 - Adobe illustrator
@@ -59,7 +60,7 @@ Khadija :
 - Intégration HTML/CSS
 
 
-Safidy
+Safidy :
 - UX/UI Design
 - Communication
 - Tests utilisateurs
